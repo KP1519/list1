@@ -1,0 +1,21 @@
+h3{
+    color:rgb(57, 224, 208);
+}
+div.container{
+   text-align: center;
+}
+ul.sample{
+    display: inline-block;
+    text-align: left;
+}
+h3{
+    text-align: center;
+}
+body{
+    background-image: url("s4.jpeg");
+    background-size: cover;
+
+}
+ul>li{
+    color: rgb(4, 36, 110);
+}
